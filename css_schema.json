@@ -1,0 +1,48 @@
+{
+  "name": "JobListing",
+  "baseSelector": "div.card.card-shadow.card-shadow-hover.text-break.mb-16.grid-row.js_rowCard",
+  "fields": [
+    {
+      "name": "title",
+      "selector": "h2.h3.font-weight-bold.text-body.mb-8",
+      "type": "text"
+    },
+    {
+      "name": "company",
+      "selector": "a.text-body.text-decoration-none[href*='infojobs.com.br']",
+      "type": "text"
+    },
+    {
+      "name": "rating",
+      "selector": "div.text-nowrap span.font-weight-bold.text-body",
+      "type": "text"
+    },
+    {
+      "name": "location",
+      "selector": "div.small.text-medium.mr-24",
+      "type": "text"
+    },
+    {
+      "name": "job_type",
+      "selector": "div.text-medium.caption",
+      "type": "text"
+    },
+    {
+      "name": "date_posted",
+      "selector": "div.ml-auto.d-flex.flex-column.align-items-end.text-nowrap div.text-medium.small",
+      "type": "text"
+    },
+    {
+      "name": "description",
+      "selector": "div.js_vacancyLoad div.small.text-medium",
+      "type": "text"
+    },
+    {
+      "name": "job_link",
+      "selector": "a.text-decoration-none",
+      "attribute": "href",
+      "type": "attribute",
+      "prefix": "https://www.infojobs.com.br"
+    }
+  ]
+}

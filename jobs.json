@@ -1,0 +1,857 @@
+[INIT].... → Crawl4AI 0.5.0.post4
+[FETCH]... ↓ https://www.infojobs.com.br/empregos.aspx?palabra=... | Status: True | Time: 10.74s
+[SCRAPE].. ◆ https://www.infojobs.com.br/empregos.aspx?palabra=... | Time: 0.476s
+[EXTRACT]. ■ Completed for https://www.infojobs.com.br/empregos.aspx?palabra=... | Time: 0.34369116500056407s
+[COMPLETE] ● https://www.infojobs.com.br/empregos.aspx?palabra=... | Status: True | Total: 11.57s
+[
+  {
+    "title": "Engenheiro De Dados Azure S\u00eanior - Hibrido SP",
+    "company": "CODE GROUP",
+    "rating": "4,4",
+    "location": "S\u00e3o Paulo - SP,0Km de voc\u00ea.",
+    "job_type": "H\u00edbrido",
+    "date_posted": "5 mar",
+    "description": "S\u00e3o Paulo - SP,0Km de voc\u00ea.",
+    "job_link": "/vaga-de-engenheiro-dados-azure-senior-hibrido-sp-em-sao-paulo__10379870.aspx"
+  },
+  {
+    "title": "Engenheiro De Integridade De Estruturas",
+    "company": "Bureau Veritas do Brasil",
+    "rating": "4,3",
+    "location": "Pec\u00e9m - CE,0Km de voc\u00ea.",
+    "job_type": "Presencial",
+    "date_posted": "7 mar",
+    "description": "Pec\u00e9m - CE,0Km de voc\u00ea.",
+    "job_link": "/vaga-de-engenheiro-integridade-estruturas-em-ceara__10389178.aspx"
+  },
+  {
+    "title": "Engenheiro De Seguran\u00e7a Do Trabalho",
+    "company": "GRUPO SOUZA LIMA",
+    "rating": "4,0",
+    "location": "S\u00e3o Paulo - SP,0Km de voc\u00ea.",
+    "job_type": "Presencial",
+    "date_posted": "7 mar",
+    "description": "S\u00e3o Paulo - SP,0Km de voc\u00ea.",
+    "job_link": "/vaga-de-engenheiro-seguranca-do-trabalho-em-sao-paulo__10387284.aspx"
+  },
+  {
+    "title": "Engenheiro De Produ\u00e7\u00e3o",
+    "company": "WORKCELL ASSESSORIA E RECURSOS HUMANOS",
+    "location": "Campinas - SP,0Km de voc\u00ea.",
+    "job_type": "Presencial",
+    "date_posted": "6 mar",
+    "description": "Campinas - SP,0Km de voc\u00ea.",
+    "job_link": "/vaga-de-engenheiro-producao-em-sao-paulo__10382838.aspx"
+  },
+  {
+    "title": "Engenheira Agr\u00f4noma",
+    "company": "Lacerda & Co. Consultoria",
+    "location": "Campo Grande - MS,0Km de voc\u00ea.",
+    "job_type": "Presencial",
+    "date_posted": "Hoje",
+    "description": "Campo Grande - MS,0Km de voc\u00ea.",
+    "job_link": "/vaga-de-engenheira-agronoma-em-mato-grosso-do-sul__10395784.aspx"
+  },
+  {
+    "title": "Desenhista Projetista - Industrial",
+    "company": "EMPREGGA",
+    "location": "S\u00e3o Paulo - SP,0Km de voc\u00ea.",
+    "job_type": "Presencial",
+    "date_posted": "7 mar",
+    "description": "S\u00e3o Paulo - SP,0Km de voc\u00ea.",
+    "job_link": "/vaga-de-desenhista-projetista-industrial-em-sao-paulo__10297372.aspx"
+  },
+  {
+    "title": "Engenheiro E/Ou Desenvolvedor De Software\u00a0S\u00eanior",
+    "company": "Adonai RH",
+    "location": "S\u00e3o Leopoldo - RS,0Km de voc\u00ea.",
+    "job_type": "Presencial",
+    "date_posted": "7 mar",
+    "description": "S\u00e3o Leopoldo - RS,0Km de voc\u00ea.",
+    "job_link": "/vaga-de-engenheiro-eou-desenvolvedor-software-senior-em-rio-grande-do-sul__10386980.aspx"
+  },
+  {
+    "title": "T\u00e9cnico De Planejamento",
+    "company": "SEEL SERVICOS ESPECIAIS DE ENGENHARIA LTDA",
+    "rating": "4,6",
+    "location": "Farroupilha - RS,0Km de voc\u00ea.",
+    "job_type": "Presencial",
+    "date_posted": "7 mar",
+    "description": "Farroupilha - RS,0Km de voc\u00ea.",
+    "job_link": "/vaga-de-tecnico-planejamento-em-rio-grande-do-sul__10299716.aspx"
+  },
+  {
+    "title": "Engenheiro (A) De Vendas S\u00eanior",
+    "company": "ADECCO",
+    "rating": "4,4",
+    "location": "Jundia\u00ed - SP,0Km de voc\u00ea.",
+    "job_type": "H\u00edbrido",
+    "date_posted": "6 mar",
+    "description": "Jundia\u00ed - SP,0Km de voc\u00ea.",
+    "job_link": "/vaga-de-engenheiro-vendas-senior-em-sao-paulo__10384933.aspx"
+  },
+  {
+    "title": "T\u00c9CNICO SEGURANCA TRABALHO - GOVERNADOR VALADARES - MG",
+    "company": "GRUPO PROSEGUR",
+    "rating": "4,6",
+    "location": "Belo Horizonte - MG,0Km de voc\u00ea.",
+    "job_type": "Presencial",
+    "date_posted": "6 mar",
+    "description": "Belo Horizonte - MG,0Km de voc\u00ea.",
+    "job_link": "/vaga-de-tecnico-seguranca-trabalho-governador-valadares-mg-em-minas-gerais__10385022.aspx"
+  },
+  {
+    "title": "Software Engineer Sr Node",
+    "company": "MOBLY",
+    "rating": "4,2",
+    "location": "S\u00e3o Paulo - SP,0Km de voc\u00ea.",
+    "job_type": "Home office",
+    "date_posted": "6 mar",
+    "description": "S\u00e3o Paulo - SP,0Km de voc\u00ea.",
+    "job_link": "/vaga-de-software-engineer-sr-node-em-sao-paulo__10382550.aspx"
+  },
+  {
+    "title": "Engenheiro(A) De Meio Ambiente Jr (C96)",
+    "company": "LIGA JOBS",
+    "location": "Todo Brasil",
+    "job_type": "Presencial",
+    "date_posted": "5 mar",
+    "description": "Todo Brasil",
+    "job_link": "/vaga-de-engenheiroa-meio-ambiente-jr-c96-em-__10305420.aspx"
+  },
+  {
+    "title": "Est\u00e1gio Engenharia - Mercedes",
+    "rating": "4,4",
+    "location": "S\u00e3o Bernardo do Campo - SP,0Km de voc\u00ea.",
+    "job_type": "H\u00edbrido",
+    "date_posted": "Ontem",
+    "description": "S\u00e3o Bernardo do Campo - SP,0Km de voc\u00ea.",
+    "job_link": "/vaga-de-estagio-engenharia-mercedes-em-sao-paulo__10393606.aspx"
+  },
+  {
+    "title": "MECANICO DE REFRIGERA\u00c7\u00c3O",
+    "company": "LIFE RECURSOS HUMANOS",
+    "rating": "4,2",
+    "location": "Cabre\u00fava - SP,0Km de voc\u00ea.",
+    "job_type": "Presencial",
+    "date_posted": "Hoje",
+    "description": "Cabre\u00fava - SP,0Km de voc\u00ea.",
+    "job_link": "/vaga-de-mecanico-refrigeracao-em-sao-paulo__10395299.aspx"
+  },
+  {
+    "title": "Analista De PCP Pleno",
+    "company": "Randstad - Matriz",
+    "rating": "4,5",
+    "location": "Bom Jesus dos Perd\u00f5es - SP,0Km de voc\u00ea.",
+    "job_type": "Presencial",
+    "date_posted": "Ontem",
+    "description": "Bom Jesus dos Perd\u00f5es - SP,0Km de voc\u00ea.",
+    "job_link": "/vaga-de-analista-pcp-pleno-em-sao-paulo__10393730.aspx"
+  },
+  {
+    "title": "00674/2025 - Desenhista Cadista I",
+    "company": "FIESC",
+    "rating": "4,5",
+    "location": "Florian\u00f3polis - SC,0Km de voc\u00ea.",
+    "job_type": "Presencial",
+    "date_posted": "Ontem",
+    "description": "Florian\u00f3polis - SC,0Km de voc\u00ea.",
+    "job_link": "/vaga-de-006742025-desenhista-cadista-i-em-santa-catarina__10390940.aspx"
+  },
+  {
+    "title": "ASSISTENTE ADMINISTRATIVO DE RH - BRAGAN\u00c7A PAULISTA",
+    "company": "Tejofran",
+    "rating": "4,4",
+    "location": "Bragan\u00e7a Paulista - SP,0Km de voc\u00ea.",
+    "job_type": "Presencial",
+    "date_posted": "7 mar",
+    "description": "Bragan\u00e7a Paulista - SP,0Km de voc\u00ea.",
+    "job_link": "/vaga-de-assistente-administrativo-rh-braganca-paulista-em-sao-paulo__10387840.aspx"
+  },
+  {
+    "title": "T\u00e9cnico De Seguran\u00e7a Do Trabalho - Pessoa Com Defici\u00eancia",
+    "company": "HOSPITAL SANTA MARCELINA",
+    "rating": "4,5",
+    "location": "S\u00e3o Paulo - SP,0Km de voc\u00ea.",
+    "job_type": "PcDPresencial",
+    "date_posted": "6 mar",
+    "description": "S\u00e3o Paulo - SP,0Km de voc\u00ea.",
+    "job_link": "/vaga-de-tecnico-seguranca-do-trabalho-pessoa-deficiencia-em-sao-paulo__10369955.aspx"
+  },
+  {
+    "title": "Engenheiro(A) De Dados | Zona Sul - S\u00e3o Paulo",
+    "company": "Base Consultoria",
+    "rating": "4,2",
+    "location": "S\u00e3o Paulo - SP,0Km de voc\u00ea.",
+    "job_type": "Presencial",
+    "date_posted": "28 fev",
+    "description": "S\u00e3o Paulo - SP,0Km de voc\u00ea.",
+    "job_link": "/vaga-de-engenheiroa-dados-zona-sul-sao-paulo-em-sao-paulo__10373666.aspx"
+  },
+  {
+    "title": "Engenheiro Mec\u00e2nico",
+    "company": "ADECCO",
+    "rating": "4,4",
+    "location": "S\u00e3o Paulo - SP,0Km de voc\u00ea.",
+    "job_type": "H\u00edbrido",
+    "date_posted": "27 fev",
+    "description": "S\u00e3o Paulo - SP,0Km de voc\u00ea.",
+    "job_link": "/vaga-de-engenheiro-mecanico-em-sao-paulo__10370836.aspx"
+  },
+  {
+    "title": "ENGENHEIRO CIVIL \u2013 COORDENADOR - PJ",
+    "company": "Stephane Alves Luzia",
+    "location": "Linhares - ES,0Km de voc\u00ea.",
+    "job_type": "Presencial",
+    "date_posted": "24 fev",
+    "description": "Linhares - ES,0Km de voc\u00ea.",
+    "job_link": "/vaga-de-engenheiro-civil-coordenador-pj-em-espirito-santo__10358801.aspx"
+  },
+  {
+    "title": "Engenheiro De Produto Trainee - Joinville",
+    "company": "BRIT\u00c2NIA",
+    "rating": "4,4",
+    "location": "Joinville - SC,0Km de voc\u00ea.",
+    "job_type": "Presencial",
+    "date_posted": "27 fev",
+    "description": "Joinville - SC,0Km de voc\u00ea.",
+    "job_link": "/vaga-de-engenheiro-produto-trainee-joinville-em-santa-catarina__10372395.aspx"
+  },
+  {
+    "title": "Est\u00e1gio Em An\u00e1lise De Dados (Data Analytics) | Novo Hamburgo",
+    "company": "SX Neg\u00f3cios",
+    "rating": "4,2",
+    "location": "Novo Hamburgo - RS,0Km de voc\u00ea.",
+    "job_type": "Presencial",
+    "date_posted": "24 fev",
+    "description": "Novo Hamburgo - RS,0Km de voc\u00ea.",
+    "job_link": "/vaga-de-estagio-analise-dados-data-analytics-novo-hamburgo-em-rio-grande-do-sul__10361068.aspx"
+  },
+  {
+    "title": "Estagi\u00e1rio De Engenharia",
+    "company": "ENGEMON",
+    "rating": "4,4",
+    "location": "Governador Celso Ramos - SC,0Km de voc\u00ea.",
+    "job_type": "Presencial",
+    "date_posted": "24 fev",
+    "description": "Governador Celso Ramos - SC,0Km de voc\u00ea.",
+    "job_link": "/vaga-de-estagiario-engenharia-em-santa-catarina__10360718.aspx"
+  },
+  {
+    "title": "Engenheiro De Dados",
+    "company": "Lenir Nunes Consultoria e Treinamento",
+    "location": "S\u00e3o Bento do Sul - SC,0Km de voc\u00ea.",
+    "job_type": "Presencial",
+    "date_posted": "10 fev",
+    "description": "S\u00e3o Bento do Sul - SC,0Km de voc\u00ea.",
+    "job_link": "/vaga-de-engenheiro-dados-em-santa-catarina__10319854.aspx"
+  },
+  {
+    "title": "Engenheiro De Dados",
+    "company": "OPUS CONSULTORIA LTDA",
+    "location": "Rio de Janeiro - RJ,0Km de voc\u00ea.",
+    "job_type": "Presencial",
+    "date_posted": "18 fev",
+    "description": "Rio de Janeiro - RJ,0Km de voc\u00ea.",
+    "job_link": "/vaga-de-engenheiro-dados-em-rio-janeiro__10143673.aspx"
+  },
+  {
+    "title": "Engenheiro De Dados",
+    "company": "OPUS CONSULTORIA LTDA",
+    "location": "Itatiaia - RJ,0Km de voc\u00ea.",
+    "job_type": "Presencial",
+    "date_posted": "18 fev",
+    "description": "Itatiaia - RJ,0Km de voc\u00ea.",
+    "job_link": "/vaga-de-engenheiro-dados-em-rio-janeiro__10143675.aspx"
+  },
+  {
+    "title": "Engenheiro Florestal J\u00fanior",
+    "company": "P. Avelar Consultoria e Servi\u00e7os Eireli",
+    "location": "Uberl\u00e2ndia - MG,0Km de voc\u00ea.",
+    "job_type": "Presencial",
+    "date_posted": "21 fev",
+    "description": "Uberl\u00e2ndia - MG,0Km de voc\u00ea.",
+    "job_link": "/vaga-de-engenheiro-florestal-junior-em-minas-gerais__10354259.aspx"
+  },
+  {
+    "title": "Est\u00e1gio Em Engenharia De Teste E Valida\u00e7\u00e3o (PV&V)",
+    "company": "GLOBAL EMPREGOS. (S-ANDR)",
+    "rating": "4,4",
+    "location": "Salto - SP,0Km de voc\u00ea.",
+    "job_type": "Presencial",
+    "date_posted": "20 fev",
+    "description": "Salto - SP,0Km de voc\u00ea.",
+    "job_link": "/vaga-de-estagio-engenharia-teste-validacao-pvv-em-sao-paulo__10351182.aspx"
+  },
+  {
+    "title": "Est\u00e1gio Em Engenharia De Teste E Valida\u00e7\u00e3o (PV&V)",
+    "company": "GLOBAL EMPREGOS. (S-ANDR)",
+    "rating": "4,4",
+    "location": "Indaiatuba - SP,0Km de voc\u00ea.",
+    "job_type": "Presencial",
+    "date_posted": "20 fev",
+    "description": "Indaiatuba - SP,0Km de voc\u00ea.",
+    "job_link": "/vaga-de-estagio-engenharia-teste-validacao-pvv-em-sao-paulo__10351185.aspx"
+  },
+  {
+    "title": "Engenheiro De Tr\u00e1fego",
+    "company": "P. Avelar Consultoria e Servi\u00e7os Eireli",
+    "location": "Belo Horizonte - MG,0Km de voc\u00ea.",
+    "job_type": "Presencial",
+    "date_posted": "19 fev",
+    "description": "Belo Horizonte - MG,0Km de voc\u00ea.",
+    "job_link": "/vaga-de-engenheiro-trafego-em-minas-gerais__10349182.aspx"
+  },
+  {
+    "title": "Engenheiro De Infraestrutura",
+    "location": "Rio de Janeiro - RJ,0Km de voc\u00ea.",
+    "job_type": "Presencial",
+    "date_posted": "18 fev",
+    "description": "Rio de Janeiro - RJ,0Km de voc\u00ea.",
+    "job_link": "/vaga-de-engenheiro-infraestrutura-em-rio-janeiro__10344033.aspx"
+  },
+  {
+    "title": "Engenheiro El\u00e9trico De Automa\u00e7\u00e3o",
+    "company": "Hire Now\u00ae",
+    "rating": "4,1",
+    "location": "Barueri - SP,0Km de voc\u00ea.",
+    "job_type": "Presencial",
+    "date_posted": "17 fev",
+    "description": "Barueri - SP,0Km de voc\u00ea.",
+    "job_link": "/vaga-de-engenheiro-eletrico-automacao-em-sao-paulo__10205211.aspx"
+  },
+  {
+    "title": "T\u00e9cnico De Edifica\u00e7\u00f5es",
+    "company": "Daiane Maciel de Freitas",
+    "location": "Fortaleza - CE,0Km de voc\u00ea.",
+    "job_type": "Presencial",
+    "date_posted": "18 fev",
+    "description": "Fortaleza - CE,0Km de voc\u00ea.",
+    "job_link": "/vaga-de-tecnico-edificacoes-em-ceara__10344199.aspx"
+  },
+  {
+    "title": "Engenheiro De Produ\u00e7\u00e3o",
+    "company": "AEROSOFT CARGAS AEREAS",
+    "rating": "4,2",
+    "location": "S\u00e3o Paulo - SP,0Km de voc\u00ea.",
+    "job_type": "Presencial",
+    "date_posted": "12 fev",
+    "description": "S\u00e3o Paulo - SP,0Km de voc\u00ea.",
+    "job_link": "/vaga-de-engenheiro-producao-em-sao-paulo__10326097.aspx"
+  },
+  {
+    "title": "Est\u00e1gio Em Engenharia De Vendas",
+    "company": "SOULAN",
+    "rating": "4,4",
+    "location": "Suzano - SP,0Km de voc\u00ea.",
+    "job_type": "H\u00edbrido",
+    "date_posted": "21 fev",
+    "description": "Suzano - SP,0Km de voc\u00ea.",
+    "job_link": "/vaga-de-estagio-engenharia-vendas-em-sao-paulo__10353856.aspx"
+  },
+  {
+    "title": "Estagi\u00e1rio De Engenharia Civil",
+    "company": "Zoe Consulting",
+    "location": "S\u00e3o Paulo - SP,0Km de voc\u00ea.",
+    "job_type": "Presencial",
+    "date_posted": "21 fev",
+    "description": "S\u00e3o Paulo - SP,0Km de voc\u00ea.",
+    "job_link": "/vaga-de-estagiario-engenharia-civil-em-sao-paulo__10353496.aspx"
+  },
+  {
+    "title": "Analista De Planejamento | S\u00eanior (H\u00edbrido/RJ)",
+    "company": "STONE",
+    "rating": "4,4",
+    "location": "Rio de Janeiro - RJ,0Km de voc\u00ea.",
+    "job_type": "Presencial",
+    "date_posted": "19 fev",
+    "description": "Rio de Janeiro - RJ,0Km de voc\u00ea.",
+    "job_link": "/vaga-de-analista-planejamento-senior-hibridorj-em-rio-janeiro__10347218.aspx"
+  },
+  {
+    "title": "1540 COORDENADOR P&D COMMS - DEVICES",
+    "company": "A PRIORI EXCELENCIA EM RECURSOS HUMANOS",
+    "location": "Curitiba - PR,0Km de voc\u00ea.",
+    "job_type": "Presencial",
+    "date_posted": "21 fev",
+    "description": "Curitiba - PR,0Km de voc\u00ea.",
+    "job_link": "/vaga-de-1540-coordenador-pd-comms-devices-em-parana__10354278.aspx"
+  },
+  {
+    "title": "Software Engineer Sr Node",
+    "company": "MOBLY",
+    "rating": "4,2",
+    "location": "S\u00e3o Paulo - SP,0Km de voc\u00ea.",
+    "job_type": "Home office",
+    "date_posted": "20 fev",
+    "description": "S\u00e3o Paulo - SP,0Km de voc\u00ea.",
+    "job_link": "/vaga-de-software-engineer-sr-node-em-sao-paulo__10350724.aspx"
+  },
+  {
+    "title": "COORDENADOR T\u00c9CNICO \u00c1REA DE APLICA\u00c7\u00d5ES #1040",
+    "company": "DANILO CARLOS MARTINS DE MELO",
+    "location": "Campinas - SP,0Km de voc\u00ea.",
+    "job_type": "H\u00edbrido",
+    "date_posted": "19 fev",
+    "description": "Campinas - SP,0Km de voc\u00ea.",
+    "job_link": "/vaga-de-coordenador-tecnico-area-aplicacoes-1040-em-sao-paulo__10245012.aspx"
+  },
+  {
+    "title": "Analista De Projetos",
+    "company": "ENGEMON",
+    "rating": "4,4",
+    "location": "Rio de Janeiro - RJ,0Km de voc\u00ea.",
+    "job_type": "Presencial",
+    "date_posted": "17 fev",
+    "description": "Rio de Janeiro - RJ,0Km de voc\u00ea.",
+    "job_link": "/vaga-de-analista-projetos-em-rio-janeiro__10337611.aspx"
+  },
+  {
+    "title": "Engenheiro De Dados",
+    "company": "Cloudster",
+    "location": "Curitiba - PR,0Km de voc\u00ea.",
+    "job_type": "H\u00edbrido",
+    "date_posted": "30 jan",
+    "description": "Curitiba - PR,0Km de voc\u00ea.",
+    "job_link": "/vaga-de-engenheiro-dados-em-parana__10291151.aspx"
+  },
+  {
+    "title": "Engenheiro De Dados S\u00eanior",
+    "company": "MANPOWER STAFFING. (Matriz)",
+    "rating": "4,4",
+    "location": "S\u00e3o Paulo - SP,0Km de voc\u00ea.",
+    "job_type": "Presencial",
+    "date_posted": "6 fev",
+    "description": "S\u00e3o Paulo - SP,0Km de voc\u00ea.",
+    "job_link": "/vaga-de-engenheiro-dados-senior-em-sao-paulo__10068154.aspx"
+  },
+  {
+    "title": "ANALISTA DE CI\u00caNCIA DE DADOS PL (ENGENHEIRO DE DADOS)",
+    "company": "Hortifruti Natural da Terra",
+    "rating": "4,3",
+    "location": "Rio de Janeiro - RJ,0Km de voc\u00ea.",
+    "job_type": "Presencial",
+    "date_posted": "31 jan",
+    "description": "Rio de Janeiro - RJ,0Km de voc\u00ea.",
+    "job_link": "/vaga-de-analista-ciencia-dados-pl-engenheiro-dados-em-rio-janeiro__10294614.aspx"
+  },
+  {
+    "title": "Engenheiro(A) De Dados | Zona Sul - S\u00e3o Paulo",
+    "company": "Base Consultoria",
+    "rating": "4,2",
+    "location": "S\u00e3o Paulo - SP,0Km de voc\u00ea.",
+    "job_type": "Presencial",
+    "date_posted": "22 jan",
+    "description": "S\u00e3o Paulo - SP,0Km de voc\u00ea.",
+    "job_link": "/vaga-de-engenheiroa-dados-zona-sul-sao-paulo-em-sao-paulo__10266300.aspx"
+  },
+  {
+    "title": "Est\u00e1gio De TI",
+    "company": "GRUPO SELPE",
+    "rating": "4,4",
+    "location": "Ibirit\u00e9 - MG,0Km de voc\u00ea.",
+    "job_type": "H\u00edbrido",
+    "date_posted": "26 dez",
+    "description": "Ibirit\u00e9 - MG,0Km de voc\u00ea.",
+    "job_link": "/vaga-de-estagio-ti-em-minas-gerais__10202893.aspx"
+  },
+  {
+    "title": "Engenheiro Civil",
+    "company": "COBRAPE",
+    "rating": "4,5",
+    "location": "S\u00e3o Paulo - SP,0Km de voc\u00ea.",
+    "job_type": "Presencial",
+    "date_posted": "5 fev",
+    "description": "S\u00e3o Paulo - SP,0Km de voc\u00ea.",
+    "job_link": "/vaga-de-engenheiro-civil-em-sao-paulo__10307732.aspx"
+  },
+  {
+    "title": "Engenheiro De Dados - Foco Em Neg\u00f3cios",
+    "company": "CAVAL SOLUCOES EM TECNOLOGIA LTDA",
+    "location": "S\u00e3o Paulo - SP,0Km de voc\u00ea.",
+    "job_type": "H\u00edbrido",
+    "date_posted": "13 jan",
+    "description": "S\u00e3o Paulo - SP,0Km de voc\u00ea.",
+    "job_link": "/vaga-de-engenheiro-dados-foco-negocios-em-sao-paulo__10237176.aspx"
+  },
+  {
+    "title": "Est\u00e1gio Em Engenharia De Teste E Valida\u00e7\u00e3o (PV&V)",
+    "company": "GLOBAL EMPREGOS. (S-ANDR)",
+    "rating": "4,4",
+    "location": "Salto - SP,0Km de voc\u00ea.",
+    "job_type": "Presencial",
+    "date_posted": "6 fev",
+    "description": "Salto - SP,0Km de voc\u00ea.",
+    "job_link": "/vaga-de-estagio-engenharia-teste-validacao-pvv-em-sao-paulo__10309930.aspx"
+  },
+  {
+    "title": "Est\u00e1gio Em Engenharia De Teste E Valida\u00e7\u00e3o (PV&V)",
+    "company": "GLOBAL EMPREGOS. (S-ANDR)",
+    "rating": "4,4",
+    "location": "Indaiatuba - SP,0Km de voc\u00ea.",
+    "job_type": "Presencial",
+    "date_posted": "6 fev",
+    "description": "Indaiatuba - SP,0Km de voc\u00ea.",
+    "job_link": "/vaga-de-estagio-engenharia-teste-validacao-pvv-em-sao-paulo__10309931.aspx"
+  },
+  {
+    "title": "Auxiliar De Engenharia Eletrica",
+    "location": "Campo Grande - MS,0Km de voc\u00ea.",
+    "job_type": "Presencial",
+    "date_posted": "19 dez",
+    "description": "Campo Grande - MS,0Km de voc\u00ea.",
+    "job_link": "/vaga-de-auxiliar-engenharia-eletrica-em-mato-grosso-do-sul__10195321.aspx"
+  },
+  {
+    "title": "BANCO DE TALENTOS - Engenheiro Civil E De Seguran\u00e7a (CASTANHAL)",
+    "company": "INSTITUTO EUVALDO LODI",
+    "rating": "4,6",
+    "location": "Castanhal - PA,0Km de voc\u00ea.",
+    "job_type": "Presencial",
+    "date_posted": "23 jan",
+    "description": "Castanhal - PA,0Km de voc\u00ea.",
+    "job_link": "/vaga-de-banco-talentos-engenheiro-civil-seguranca-castanhal-em-para__10271910.aspx"
+  },
+  {
+    "title": "Estagi\u00e1rio De Engenharia Civil",
+    "company": "SPE M. Matos 13 Empreendimentos Imobiliarios LTDA",
+    "location": "Belo Horizonte - MG,0Km de voc\u00ea.",
+    "job_type": "Presencial",
+    "date_posted": "14 jan",
+    "description": "Belo Horizonte - MG,0Km de voc\u00ea.",
+    "job_link": "/vaga-de-estagiario-engenharia-civil-em-minas-gerais__10241092.aspx"
+  },
+  {
+    "title": "Engenheiro De Manuten\u00e7\u00e3o",
+    "company": "METALFRIO SOLUTIONS",
+    "rating": "4,3",
+    "location": "Tr\u00eas Lagoas - MS,0Km de voc\u00ea.",
+    "job_type": "Presencial",
+    "date_posted": "9 jan",
+    "description": "Tr\u00eas Lagoas - MS,0Km de voc\u00ea.",
+    "job_link": "/vaga-de-engenheiro-manutencao-em-mato-grosso-do-sul__10231871.aspx"
+  },
+  {
+    "title": "BANCO DE TALENTOS - Engenheiro De Seguran\u00e7a Do Trabalho",
+    "company": "INSTITUTO EUVALDO LODI",
+    "rating": "4,6",
+    "location": "Bel\u00e9m - PA,0Km de voc\u00ea.",
+    "job_type": "Presencial",
+    "date_posted": "8 jan",
+    "description": "Bel\u00e9m - PA,0Km de voc\u00ea.",
+    "job_link": "/vaga-de-banco-talentos-engenheiro-seguranca-do-trabalho-em-para__9984011.aspx"
+  },
+  {
+    "title": "Estagio Engenheiro - Obras",
+    "company": "MultidisciplinaRH",
+    "location": "Rio de Janeiro - RJ,0Km de voc\u00ea.",
+    "job_type": "Presencial",
+    "date_posted": "6 jan",
+    "description": "Rio de Janeiro - RJ,0Km de voc\u00ea.",
+    "job_link": "/vaga-de-estagio-engenheiro-obras-em-rio-janeiro__10218965.aspx"
+  },
+  {
+    "title": "Estagio Engenheiro - Obras",
+    "company": "MultidisciplinaRH",
+    "location": "Rio de Janeiro - RJ,0Km de voc\u00ea.",
+    "job_type": "Presencial",
+    "date_posted": "6 jan",
+    "description": "Rio de Janeiro - RJ,0Km de voc\u00ea.",
+    "job_link": "/vaga-de-estagio-engenheiro-obras-em-rio-janeiro__10218955.aspx"
+  },
+  {
+    "title": "Desenhista Projetista",
+    "company": "Bedin Consulting",
+    "location": "Joinville - SC,0Km de voc\u00ea.",
+    "job_type": "Presencial",
+    "date_posted": "30 jan",
+    "description": "Joinville - SC,0Km de voc\u00ea.",
+    "job_link": "/vaga-de-desenhista-projetista-em-santa-catarina__10291895.aspx"
+  },
+  {
+    "title": "Auxiliar Administrativo",
+    "rating": "4,3",
+    "location": "S\u00e3o Paulo - SP,0Km de voc\u00ea.",
+    "job_type": "PcDPresencial",
+    "date_posted": "24 jan",
+    "description": "S\u00e3o Paulo - SP,0Km de voc\u00ea.",
+    "job_link": "/vaga-de-auxiliar-administrativo-em-sao-paulo__10275321.aspx"
+  },
+  {
+    "title": "Est\u00e1gio Em Engenharia Civil",
+    "company": "HB ENGENHARIA",
+    "rating": "4,1",
+    "location": "Maca\u00edba - RN,0Km de voc\u00ea.",
+    "job_type": "Presencial",
+    "date_posted": "16 jan",
+    "description": "Maca\u00edba - RN,0Km de voc\u00ea.",
+    "job_link": "/vaga-de-estagio-engenharia-civil-em-rio-grande-do-norte__10250335.aspx"
+  },
+  {
+    "title": "Planejador De Manuten\u00e7\u00e3o Tabo\u00e3o Da Serra SP",
+    "company": "Brasanitas",
+    "rating": "4,4",
+    "location": "Tabo\u00e3o da Serra - SP,0Km de voc\u00ea.",
+    "job_type": "Presencial",
+    "date_posted": "30 jan",
+    "description": "Tabo\u00e3o da Serra - SP,0Km de voc\u00ea.",
+    "job_link": "/vaga-de-planejador-manutencao-taboao-da-serra-sp-em-sao-paulo__10289437.aspx"
+  },
+  {
+    "title": "Inspetor(A) Da Qualidade",
+    "company": "MANPOWER STAFFING. (Matriz)",
+    "rating": "4,4",
+    "location": "Indaiatuba - SP,0Km de voc\u00ea.",
+    "job_type": "Presencial",
+    "date_posted": "16 jan",
+    "description": "Indaiatuba - SP,0Km de voc\u00ea.",
+    "job_link": "/vaga-de-inspetora-da-qualidade-em-sao-paulo__10249337.aspx"
+  },
+  {
+    "title": "Auxiliar De Engenharia Civil",
+    "location": "Ribeir\u00e3o Pires - SP,0Km de voc\u00ea.",
+    "job_type": "Presencial",
+    "date_posted": "30 jan",
+    "description": "Ribeir\u00e3o Pires - SP,0Km de voc\u00ea.",
+    "job_link": "/vaga-de-auxiliar-engenharia-civil-em-sao-paulo__9877423.aspx"
+  },
+  {
+    "title": "Desenhista Projetista Mec\u00e2nico",
+    "company": "VMF TECNOLOGIA EM EQUIPAMENTOS INDUSTRIAIS",
+    "location": "Santa B\u00e1rbara D'Oeste - SP,0Km de voc\u00ea.",
+    "job_type": "Presencial",
+    "date_posted": "26 dez",
+    "description": "Santa B\u00e1rbara D'Oeste - SP,0Km de voc\u00ea.",
+    "job_link": "/vaga-de-desenhista-projetista-mecanico-em-sao-paulo__10201283.aspx"
+  },
+  {
+    "title": "Analista De Importa\u00e7\u00e3o E Log\u00edstica",
+    "company": "Gestora Contabilidade",
+    "rating": "4,2",
+    "location": "Itaja\u00ed - SC,0Km de voc\u00ea.",
+    "job_type": "Presencial",
+    "date_posted": "17 dez",
+    "description": "Itaja\u00ed - SC,0Km de voc\u00ea.",
+    "job_link": "/vaga-de-analista-importacao-logistica-em-santa-catarina__10189991.aspx"
+  },
+  {
+    "title": "Assistente De Ficha T\u00e9cnica",
+    "company": "INBRANDS S.A",
+    "rating": "4,3",
+    "location": "S\u00e3o Paulo - SP,0Km de voc\u00ea.",
+    "job_type": "Presencial",
+    "date_posted": "10 dez",
+    "description": "S\u00e3o Paulo - SP,0Km de voc\u00ea.",
+    "job_link": "/vaga-de-assistente-ficha-tecnica-em-sao-paulo__10171075.aspx"
+  },
+  {
+    "title": "Assistente T\u00e9cnico De Projetos",
+    "company": "M\u00e1quina Solo",
+    "location": "Guarulhos - SP,0Km de voc\u00ea.",
+    "job_type": "H\u00edbrido",
+    "date_posted": "6 mar",
+    "description": "Guarulhos - SP,0Km de voc\u00ea.",
+    "job_link": "/vaga-de-assistente-tecnico-projetos-em-sao-paulo__10383539.aspx"
+  },
+  {
+    "title": "Engenheiro Civil",
+    "company": "ADECCO",
+    "rating": "4,4",
+    "location": "S\u00e3o Paulo - SP,0Km de voc\u00ea.",
+    "job_type": "H\u00edbrido",
+    "date_posted": "27 fev",
+    "description": "S\u00e3o Paulo - SP,0Km de voc\u00ea.",
+    "job_link": "/vaga-de-engenheiro-civil-em-sao-paulo__10370912.aspx"
+  },
+  {
+    "title": "Digitador",
+    "company": "EMorette Consultoria de Capital Humano",
+    "location": "S\u00e3o Paulo - SP,0Km de voc\u00ea.",
+    "job_type": "Presencial",
+    "date_posted": "26 fev",
+    "description": "S\u00e3o Paulo - SP,0Km de voc\u00ea.",
+    "job_link": "/vaga-de-digitador-em-sao-paulo__10369523.aspx"
+  },
+  {
+    "title": "Engenheiro De Seguran\u00e7a Jr.",
+    "company": "NEXMUV TECNOLOGIA",
+    "rating": "4,2",
+    "location": "S\u00e3o Paulo - SP,0Km de voc\u00ea.",
+    "job_type": "H\u00edbrido",
+    "date_posted": "19 fev",
+    "description": "S\u00e3o Paulo - SP,0Km de voc\u00ea.",
+    "job_link": "/vaga-de-engenheiro-seguranca-jr-em-sao-paulo__10346749.aspx"
+  },
+  {
+    "title": "Pessoa Engenheira De Software QA S\u00eanior",
+    "company": "DAFITI",
+    "rating": "4,4",
+    "location": "Todo Brasil",
+    "job_type": "Home office",
+    "date_posted": "14 fev",
+    "description": "Todo Brasil",
+    "job_link": "/vaga-de-pessoa-engenheira-software-qa-senior-em-__10335745.aspx"
+  },
+  {
+    "title": "Engenheiro De Dados J\u00fanior",
+    "company": "Lojas Quero-Quero S/A",
+    "rating": "4,4",
+    "location": "Cachoeirinha - RS,0Km de voc\u00ea.",
+    "job_type": "Home office",
+    "date_posted": "29 jan",
+    "description": "Cachoeirinha - RS,0Km de voc\u00ea.",
+    "job_link": "/vaga-de-engenheiro-dados-junior-em-rio-grande-do-sul__10097159.aspx"
+  },
+  {
+    "title": "Engenheiro De Dados S\u00eanior",
+    "company": "FSBR SOFTWARE",
+    "location": "Recife - PE,0Km de voc\u00ea.",
+    "job_type": "Presencial",
+    "date_posted": "17 dez",
+    "description": "Recife - PE,0Km de voc\u00ea.",
+    "job_link": "/vaga-de-engenheiro-dados-senior-em-pernambuco__10189680.aspx"
+  },
+  {
+    "title": "Est\u00e1gio De TI",
+    "company": "GRUPO SELPE",
+    "rating": "4,4",
+    "location": "Betim - MG,0Km de voc\u00ea.",
+    "job_type": "H\u00edbrido",
+    "date_posted": "26 dez",
+    "description": "Betim - MG,0Km de voc\u00ea.",
+    "job_link": "/vaga-de-estagio-ti-em-minas-gerais__10202890.aspx"
+  },
+  {
+    "title": "Est\u00e1gio De TI",
+    "company": "GRUPO SELPE",
+    "rating": "4,4",
+    "location": "Contagem - MG,0Km de voc\u00ea.",
+    "job_type": "H\u00edbrido",
+    "date_posted": "26 dez",
+    "description": "Contagem - MG,0Km de voc\u00ea.",
+    "job_link": "/vaga-de-estagio-ti-em-minas-gerais__10202894.aspx"
+  },
+  {
+    "title": "Est\u00e1gio De TI",
+    "company": "GRUPO SELPE",
+    "rating": "4,4",
+    "location": "Belo Horizonte - MG,0Km de voc\u00ea.",
+    "job_type": "H\u00edbrido",
+    "date_posted": "26 dez",
+    "description": "Belo Horizonte - MG,0Km de voc\u00ea.",
+    "job_link": "/vaga-de-estagio-ti-em-minas-gerais__10202895.aspx"
+  },
+  {
+    "title": "Engenheiro De Aplica\u00e7\u00e3o Jr.",
+    "company": "Estech",
+    "location": "Vinhedo - SP,0Km de voc\u00ea.",
+    "job_type": "H\u00edbrido",
+    "date_posted": "10 jan",
+    "description": "Vinhedo - SP,0Km de voc\u00ea.",
+    "job_link": "/vaga-de-engenheiro-aplicacao-jr-em-sao-paulo__10234065.aspx"
+  },
+  {
+    "title": "Engenheiro De Aplica\u00e7\u00e3o Jr",
+    "company": "Estech Engenharia",
+    "location": "Vinhedo - SP,0Km de voc\u00ea.",
+    "job_type": "Presencial",
+    "date_posted": "6 jan",
+    "description": "Vinhedo - SP,0Km de voc\u00ea.",
+    "job_link": "/vaga-de-engenheiro-aplicacao-jr-em-sao-paulo__10216973.aspx"
+  },
+  {
+    "title": "Engenheiro Civil",
+    "company": "RH SELECTOR - COMERCIAL",
+    "location": "Fortaleza - CE,0Km de voc\u00ea.",
+    "job_type": "Presencial",
+    "date_posted": "7 fev",
+    "description": "Fortaleza - CE,0Km de voc\u00ea.",
+    "job_link": "/vaga-de-engenheiro-civil-em-ceara__10315311.aspx"
+  },
+  {
+    "title": "BANCO DE TALENTOS - Engenheiro Civil",
+    "company": "INSTITUTO EUVALDO LODI",
+    "rating": "4,6",
+    "location": "Bel\u00e9m - PA,0Km de voc\u00ea.",
+    "job_type": "Presencial",
+    "date_posted": "8 jan",
+    "description": "Bel\u00e9m - PA,0Km de voc\u00ea.",
+    "job_link": "/vaga-de-banco-talentos-engenheiro-civil-em-para__9983921.aspx"
+  },
+  {
+    "title": "PROJETISTA CAMPO - ENGENHARIA CIVIL/ MEC\u00c2NICA  - VOLTA REDONDA/RJ",
+    "company": "CBSI",
+    "rating": "4,4",
+    "location": "Volta Redonda - RJ,0Km de voc\u00ea.",
+    "job_type": "Presencial",
+    "date_posted": "22 jan",
+    "description": "Volta Redonda - RJ,0Km de voc\u00ea.",
+    "job_link": "/vaga-de-projetista-campo-engenharia-civil-mecanica-volta-redondarj-em-rio-janeiro__10264934.aspx"
+  },
+  {
+    "title": "Auxiliar Administrativo",
+    "rating": "4,3",
+    "location": "S\u00e3o Paulo - SP,0Km de voc\u00ea.",
+    "job_type": "Presencial",
+    "date_posted": "24 jan",
+    "description": "S\u00e3o Paulo - SP,0Km de voc\u00ea.",
+    "job_link": "/vaga-de-auxiliar-administrativo-em-sao-paulo__10275268.aspx"
+  },
+  {
+    "title": "Analista De Neg\u00f3cios J\u00fanior",
+    "company": "Peoplepro",
+    "rating": "4,8",
+    "location": "S\u00e3o Caetano do Sul - SP,0Km de voc\u00ea.",
+    "job_type": "H\u00edbrido",
+    "date_posted": "9 jan",
+    "description": "S\u00e3o Caetano do Sul - SP,0Km de voc\u00ea.",
+    "job_link": "/vaga-de-analista-negocios-junior-em-sao-paulo__10204637.aspx"
+  },
+  {
+    "title": "Engenheiro Mec\u00e2nico",
+    "company": "CENTRO DE APOIO - GESTAO DA INFORMACAO E EVENTOS",
+    "location": "S\u00e3o Paulo - SP,0Km de voc\u00ea.",
+    "job_type": "Presencial",
+    "date_posted": "6 jan",
+    "description": "S\u00e3o Paulo - SP,0Km de voc\u00ea.",
+    "job_link": "/vaga-de-engenheiro-mecanico-em-sao-paulo__10218946.aspx"
+  },
+  {
+    "title": "T\u00e9cnico De Seguran\u00e7a Do Trabalho",
+    "company": "Grupo GPS",
+    "rating": "4,2",
+    "location": "S\u00e3o Paulo - SP,0Km de voc\u00ea.",
+    "job_type": "Presencial",
+    "date_posted": "16 dez",
+    "description": "S\u00e3o Paulo - SP,0Km de voc\u00ea.",
+    "job_link": "/vaga-de-tecnico-seguranca-do-trabalho-em-sao-paulo__10185929.aspx"
+  },
+  {
+    "title": "Auxiliar De Engenharia Civil",
+    "company": "PONTO FORTE",
+    "location": "Santo Andr\u00e9 - SP,0Km de voc\u00ea.",
+    "job_type": "Presencial",
+    "date_posted": "10 dez",
+    "description": "Santo Andr\u00e9 - SP,0Km de voc\u00ea.",
+    "job_link": "/vaga-de-auxiliar-engenharia-civil-em-sao-paulo__10170481.aspx"
+  },
+  {
+    "title": "ANALISTA DE  ENGENHARIA E INFRAESTRUTURA SR",
+    "company": "HOSPITAL SANTA CATARINA",
+    "rating": "4,6",
+    "location": "S\u00e3o Paulo - SP,0Km de voc\u00ea.",
+    "job_type": "H\u00edbrido",
+    "date_posted": "29 jan",
+    "description": "S\u00e3o Paulo - SP,0Km de voc\u00ea.",
+    "job_link": "/vaga-de-analista-engenharia-infraestrutura-sr-em-sao-paulo__10288728.aspx"
+  },
+  {
+    "title": "Estagio RECURSOS HUMANOS GENERALISTA - RH-DP",
+    "company": "Mauro Ullmann Climatiza\u00e7\u00e3o e Refrigera\u00e7\u00e3o",
+    "location": "Porto Alegre - RS,0Km de voc\u00ea.",
+    "job_type": "Presencial",
+    "date_posted": "9 jan",
+    "description": "Porto Alegre - RS,0Km de voc\u00ea.",
+    "job_link": "/vaga-de-estagio-recursos-humanos-generalista-rh-dp-em-rio-grande-do-sul__10230215.aspx"
+  }
+]
